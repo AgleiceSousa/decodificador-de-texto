@@ -123,13 +123,13 @@ main {
   }
 
   & .buttons-section {
-    flex-direction: row;
+    flex-direction: column;
     gap: 2.4rem;
   }
 
   & button {
     border: 0.1rem solid var(--dark-blue-300);
-    height: 7rem;
+    height: 6.7rem;
     border-radius: 2.4rem;
     font-size: 1.6rem;
   }
